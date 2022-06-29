@@ -1,0 +1,320 @@
+
+
+.heading-1 {
+    color: blue;
+    margin-left: 30px;
+    font-style: oblique;
+}
+
+.heading-2 {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    margin: 25px;
+}
+
+.sub-heading-1 {
+    margin: 25px;
+    font-size: larger;
+    font-style: italic;
+    color: darkcyan;
+}
+.red-box-A{
+    height: 40PX;
+    width: 35PX;
+    background-color: brown;
+    position: absolute;
+    margin-top: -5px;
+    left: 8px;
+}
+
+.h1-A{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.heading-3 {
+    font-size: 35px;
+    font-style: oblique;
+    color: cornflowerblue;
+    margin-left: 12px;
+    padding: 5px;
+}
+
+table,
+tr {
+    font-size: 25px;
+    border-top: 2px solid crimson;
+    border-bottom: 2px solid crimson;
+    width: -webkit-fill-available;
+    height: auto;
+    font-style: oblique;
+    color: crimson;
+    padding: 13px;
+}
+
+tdA {
+    color: brown;
+    font-size: 30px;
+    font-style: oblique;
+    margin-left: 36px;
+    padding: 5px;
+    vertical-align: 10px
+}
+
+TdB {
+    margin-left: 957px;
+    color: brown;
+    font-size: 22px;
+    font-style: oblique;
+    padding: 5px;
+    vertical-align: 10px;
+}
+
+tdC {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    padding: 5px;
+    margin-left: 36px;
+
+}
+
+tdD {
+    margin-left: 892px;
+    font-size: 22px;
+    font-style: oblique;
+    color: brown;
+    padding: 3px;
+}
+.heading-4 {
+    font-size: 35px;
+    font-style: oblique;
+    color: cadetblue;
+    margin-left: 28px;
+
+}
+tdE {
+    color: brown;
+    font-size: 30px;
+    font-style: oblique;
+    margin-left: 35px;
+    padding: 5px;
+    vertical-align: 10px
+}
+
+tdF {
+    margin-left: 957px;
+    color: brown;
+    font-size: 22px;
+    font-style: oblique;
+    padding: 5px;
+    vertical-align: 10px;
+}
+
+tdG {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    padding: 5px;
+    margin-left: 28px;
+}
+
+tdH {
+    margin-left: 900px;
+    font-size: 22px;
+    font-style: oblique;
+    color: brown;
+    padding: 6px;
+}
+.heading-5 {
+    font-size: 15px;
+    color: cadetblue;
+    font-style: oblique;
+    margin-left: 37px;
+}
+
+.heading-6 {
+    font-size: 17px;
+    font-style: oblique;
+    color: darkcyan;
+    margin-left: 36px;
+
+}
+
+.heading-7 {
+    font-size: 17px;
+    font-style: oblique;
+    color: darkcyan;
+    margin-left: 30px;
+
+}
+.h1-B{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 45px; 
+}
+.red-box-B{
+    height: 40PX;
+    width: 35PX;
+    background-color:brown;
+    position: absolute;
+    margin-top: -5px;
+    left: 8px;
+}
+tdI {
+    padding: 3px;
+    color: brown;
+    font-size: 30px;
+    font-style: oblique;
+    margin-left: 38px;
+    vertical-align: 5px;
+}
+
+tdJ {
+    color: brown;
+    font-size: 22px;
+    font-style: oblique;
+    margin-left: 947px;
+}
+
+tdK {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 33px;
+    vertical-align: 5px;
+}
+
+tdL {
+    font-size: 22px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 775px;
+}
+
+tdM {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 33px;
+    vertical-align: 5px;
+}
+
+tdN {
+    font-size: 22px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 950px;
+}
+
+tdO {
+    font-size: 30px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 33px;
+    vertical-align: 5px;
+}
+
+tdP {
+    font-size: 22px;
+    font-style: oblique;
+    color: brown;
+    margin-left: 823px;
+}
+
+.h1B {
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.sub-heading-11 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-heading-11 li {
+    background-color: red;
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+}
+
+
+.sub-heading-12 li {
+    background-color: red;
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+}
+
+.sub-heading-12 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-heading-13 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-heading-13 li {
+    background-color: red;
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+}
+.red-box-C{
+    height: 40PX;
+    width: 35PX;
+    background-color: brown;
+    position: absolute;
+    margin-top: -5px;
+    left: 8px;
+}
+
+.h2-C{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.heading-10{
+    margin-left: 10px;
+    font-size: 30px;
+    font-style: oblique;
+    list-style: none;
+    color: cadetblue;
+}
+.red-box-D{
+    height: 40PX;
+    width: 35PX;
+    background-color: brown;
+    position: absolute;
+    margin-top: -5px;
+    left: 8px;
+}
+
+.h1-D{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.red-box-E{
+    height: 10PX;
+    width: 35PX;
+    background-color: brown;
+    position: absolute;
+    margin-top: -5px;
+    left: 8px;
+
+}
+
+
